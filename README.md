@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is makimura83
 ===================================================================================================================================
 
-Web Developer and Full Stack Developer
+Full Stack Developer
+Game Developer
+Embedded System Engineer & QA Enginner
 --------------------------------------
-
-Even though I work, I'm still poor.
-
-* 🌍  I'm based in sakon nakhon
