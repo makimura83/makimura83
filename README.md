@@ -18,18 +18,3 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/9xZt0hrJCugAAAAd/shinosawa-hiro-hiro-shinosawa.gif" width="40%" alt="Anime GIF" />
 </div>
-
-### 💬 Random Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎧 Favorite Music Video
-<div align="center">
-
-  <a href="https://www.youtube.com/watch?v=M792fgOtzZY" target="_blank">
-    <img src="https://img.youtube.com/vi/M792fgOtzZY/hqdefault.jpg" width="65%" style="border-radius: 12px;" alt="Donald Trump - YMCA (MAGA Music Video)" />
-  </a>
-  
-  <p><b>Donald Trump - YMCA (MAGA Music Video)</b></p>
-  <p><i>▶️ กดที่รูปภาพเพื่อเปิดเล่นเพลงบน YouTube</i></p>
-
-</div>
