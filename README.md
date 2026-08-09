@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
-  <img src="น[ำ_URL_ที่ได้จากการลากไฟล์วางบน_GitHub_มาใส่ตรงนี้](https://media1.tenor.com/m/9xZt0hrJCugAAAAd/shinosawa-hiro-hiro-shinosawa.gif)" width="40%" alt="Anime GIF" />
+  <img src="https://media1.tenor.com/m/9xZt0hrJCugAAAAd/shinosawa-hiro-hiro-shinosawa.gif" width="40%" alt="Anime GIF" />
 </div>
 
 ### 💬 Random Quote
