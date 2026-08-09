@@ -15,22 +15,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎧 Current Favorite Music
-### 🎧 Favorite Music Video
 <div align="center">
-
-  <!-- Donald Trump - YMCA (MAGA Music Video) -->
-  <a href="https://www.youtube.com/watch?v=M792fgOtzZY" target="_blank">
-    <img src="https://img.youtube.com/vi/M792fgOtzZY/hqdefault.jpg" width="65%" style="border-radius: 12px;" alt="Donald Trump - YMCA (MAGA Music Video)" />
-  </a>
-  
-  <p><b>Donald Trump - YMCA (MAGA Music Video)</b></p>
-  <p><i>▶️ กดที่รูปภาพเพื่อเปิดเล่นเพลงบน YouTube</i></p>
-
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif](https://tenor.com/vno8Kp0yvG0.gif)" width="40%" alt="Header Banner" />
 </div>
 
-</div>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif" width="35%" alt="Header Banner" />
-</div>
+### 💬 Random Anime Quote
+![Anime Quote](https://animechan.io/api/v1/quotes/random/image)
