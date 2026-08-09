@@ -16,8 +16,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
-  <img src="https://media.tenor.com/Psh5f5S_J4AAAAAM/anime.gif" width="40%" alt="Anime Banner GIF" />
+  <img src="น[ำ_URL_ที่ได้จากการลากไฟล์วางบน_GitHub_มาใส่ตรงนี้](https://media1.tenor.com/m/9xZt0hrJCugAAAAd/shinosawa-hiro-hiro-shinosawa.gif)" width="40%" alt="Anime GIF" />
 </div>
 
 ### 💬 Random Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎧 Favorite Music Video
+<div align="center">
+
+  <a href="https://www.youtube.com/watch?v=M792fgOtzZY" target="_blank">
+    <img src="https://img.youtube.com/vi/M792fgOtzZY/hqdefault.jpg" width="65%" style="border-radius: 12px;" alt="Donald Trump - YMCA (MAGA Music Video)" />
+  </a>
+  
+  <p><b>Donald Trump - YMCA (MAGA Music Video)</b></p>
+  <p><i>▶️ กดที่รูปภาพเพื่อเปิดเล่นเพลงบน YouTube</i></p>
+
+</div>
