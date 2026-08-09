@@ -15,9 +15,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎵 Favorite Track
-[![Music Title](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/M792fgOtzZY?si=VAVk1UI4-WoclgDw))
+### 🎧 Current Favorite Music
+### 🎧 Favorite Music Video
+<div align="center">
+
+  <!-- Donald Trump - YMCA (MAGA Music Video) -->
+  <a href="https://www.youtube.com/watch?v=M792fgOtzZY" target="_blank">
+    <img src="https://img.youtube.com/vi/M792fgOtzZY/hqdefault.jpg" width="65%" style="border-radius: 12px;" alt="Donald Trump - YMCA (MAGA Music Video)" />
+  </a>
+  
+  <p><b>Donald Trump - YMCA (MAGA Music Video)</b></p>
+  <p><i>▶️ กดที่รูปภาพเพื่อเปิดเล่นเพลงบน YouTube</i></p>
+
+</div>
+
+</div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif" width="100%" alt="Header Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif" width="35%" alt="Header Banner" />
 </div>
