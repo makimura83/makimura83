@@ -14,3 +14,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎵 Favorite Track
+[![Music Title](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/M792fgOtzZY?si=VAVk1UI4-WoclgDw))
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif" width="100%" alt="Header Banner" />
+</div>
