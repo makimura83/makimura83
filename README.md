@@ -16,8 +16,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif](https://tenor.com/vno8Kp0yvG0.gif)" width="40%" alt="Header Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xuNHRkenpyOHhjczI5MHB1eTkyenpiNnBxbmw0Z3c4NXE5YjFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bF9NCqH4G2YK0hsq40/giphy.gif(https://tenor.com/vno8Kp0yvG0.gif)" width="40%" alt="Header Banner" />
 </div>
-
-### 💬 Random Anime Quote
-![Anime Quote](https://animechan.io/api/v1/quotes/random/image)
